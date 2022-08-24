@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80a91a2-b0b6-4b5e-843e-6720836ae38b" name="변경" comment="update">
-      <change afterPath="$PROJECT_DIR$/pystudy_2/김정운 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pystudy_2/마이네임이즈김정운.py" beforeDir="false" afterPath="$PROJECT_DIR$/pystudy_2/마이네임이즈김정운.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pystudy_3/정운쓰 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,9 @@
       <module name="PyStudy-10507" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -61,6 +62,9 @@
       <module name="PyStudy-10507" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pystudy_2" />
       <option name="IS_MODULE_SDK" value="true" />
